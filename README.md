@@ -1,5 +1,5 @@
 # recipes-html
-a website where users can cook their favourite food  <br/>
+a website from where users can cook their favourite food  <br/>
 https://xadhithiyan.github.io/recipes-html/index.html <br/>
 <hr/>
 sample ss
