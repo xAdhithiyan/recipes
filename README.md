@@ -1,4 +1,4 @@
-# recipes-html
+# recipes
 a website from where users can cook their favourite food  <br/>
 https://xadhithiyan.github.io/recipes/ <br/>
 <hr/>
