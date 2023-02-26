@@ -1,8 +1,8 @@
 # recipes
 ## Links
--[Visit the website](https://xadhithiyan.github.io/recipes/)
+- [Visit the website](https://xadhithiyan.github.io/recipes/)
 
--[Link to the assignment](https://www.theodinproject.com/lessons/foundations-recipes)
+- [Link to the assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ## About
 A simple food recipe webpage built using html for an assingment in the course The Odin Project.
