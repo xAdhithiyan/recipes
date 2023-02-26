@@ -1,6 +1,6 @@
 # recipes
-a website from where users can cook their favourite food  <br/>
-https://xadhithiyan.github.io/recipes/ <br/>
+
+<a href="https://xadhithiyan.github.io/recipes/">Visit the site</a> <br/>
 <hr/>
 sample ss
 
